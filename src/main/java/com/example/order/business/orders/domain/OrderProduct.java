@@ -1,5 +1,6 @@
 package com.example.order.business.orders.domain;
 
+import com.example.order.business.orders.domain.order.Order;
 import com.example.order.business.product.domain.Product;
 import com.example.order.global.entity.BaseEntity;
 import lombok.AccessLevel;

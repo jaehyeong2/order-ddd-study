@@ -18,4 +18,5 @@ public class Delivery extends BaseEntity {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+
 }
